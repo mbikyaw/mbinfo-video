@@ -1,0 +1,19 @@
+
+.video-box {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.video-caption {
+    width: 640px;
+    margin: auto;
+}
+
+.youtube-frame {
+    width: 640px;
+    margin: auto;
+}
+
+.video-title {
+    font-weight: bold;
+}
